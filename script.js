@@ -38,7 +38,7 @@ document.addEventListener("DOMContentLoaded", function () {
 let player;
 let trackName;
 let pontos = 0;
-let contador_musicas = 1;
+let contador_musicas = 0;
 let erros = 0;
 let connect_to_device;
 function atualizarPontuacao() {
